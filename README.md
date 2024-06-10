@@ -1,13 +1,1 @@
-# React + Vite
-
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+En este desafío se trabaja en el sistema de likes usando Context API para el manejo de estado global y React Router para la creación de las vistas Home y Favoritos.
